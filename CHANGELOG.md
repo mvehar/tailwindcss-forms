@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet!
 
+## [0.6.0] - 2022-03-22
+
+### Changed
+
+- Enable configuration of styles
+
+
 ## [0.5.0] - 2022-03-02
 
 ### Changed
